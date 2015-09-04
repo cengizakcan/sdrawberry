@@ -1,0 +1,27 @@
+div#flexboxcontainer { 
+      display: flex;
+      flex-direction: row;
+}
+
+div { 
+      max-width: 800px;
+      text-align: center;
+      margin: 10px;
+      }
+
+ul { 
+     min-width: 400px;
+     text-align: left;
+}
+
+li { 
+     margin: 5px;
+ }
+
+div#kineticcontainer div.kineticjs-content { 
+                       margin: 0px;
+                       }
+
+img { 
+      margin: 10px;
+ }
