@@ -267,8 +267,3 @@ function initialize() {
     makeImageHistory();
     stage.draw();
 }
-
-function init_drawings() {
-    
-        // to add: <img width="100" src="<%= image.data %>" onclick="addImage(this.src);">
-}
